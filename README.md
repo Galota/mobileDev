@@ -1,16 +1,10 @@
 # ponto_digital
 
-A new Flutter application.
+O aplicativo contem:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Sistema de Login.
+ - Recebimento de notificações: recebe todo dia um lembrete de início de jornada.
+![image](https://user-images.githubusercontent.com/8528776/119277860-6377a100-bbf8-11eb-8b7e-c9f674844e56.png)
+ - Sistema de distribuição em firebase e automatizado por fastlane.
+![image](https://user-images.githubusercontent.com/8528776/119277955-d6811780-bbf8-11eb-8bfc-bdb75d35cd64.png)
+ - Interfaces seguindo as convenções atuais.
